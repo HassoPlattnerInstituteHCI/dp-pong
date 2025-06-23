@@ -1,7 +1,7 @@
 ### Before TODO
 - `git stash`
 - `git checkout dp-toolkit-assignment`
-- `git submodule update --init –-recursive`
+- `git submodule update --init --recursive`
 
 
 #### Useful scene shortcuts:
